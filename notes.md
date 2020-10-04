@@ -1,5 +1,7 @@
 week 3 notes
 
+my model is in github and here https://p3d.in/gRxqZ --> when I upload it has no colour (missing texture?), I cant figure out how to fix that
+
 podcast:
 
     "recording the stones takes a long time" --> yes
