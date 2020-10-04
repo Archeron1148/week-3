@@ -1,6 +1,6 @@
 week 3 notes
 
-my model is in github and here https://p3d.in/gRxqZ --> when I uploaded it, it said the texture was too big and downsized it automatically, so the colour is pretty bugged
+my model is in github and here uploaded here --> https://p3d.in/gRxqZ --> the texture was automatically downsized, so it looks a bit off
 I used the moodie plaque stone outside of the cemetery because I thought it would be important to preserve as it tells a story about the whole family and it might be otherwise ignored
 
 podcast:
