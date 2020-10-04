@@ -1,6 +1,8 @@
 week 3 notes
 
-my model is in github and here uploaded here --> https://p3d.in/gRxqZ --> the texture was automatically downsized, so it looks a bit off
+my model is uploaded here --> https://p3d.in/gRxqZ --> the texture was automatically downsized, so it looks a bit off
+I also uploaded the obj and mtl to github, I also downsized the texture so I could upload it on github
+
 I used the moodie plaque stone outside of the cemetery because I thought it would be important to preserve as it tells a story about the whole family and it might be otherwise ignored
 
 podcast:
