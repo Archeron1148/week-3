@@ -1,6 +1,7 @@
 week 3 notes
 
 my model is in github and here https://p3d.in/gRxqZ --> when I upload it has no colour (missing texture?), I cant figure out how to fix that
+I used the moodie plaque stone outside of the cemetery because I thought it would be important to preserve as it tells a story about the whole family and it might be otherwise ignored
 
 podcast:
 
